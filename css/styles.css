@@ -1,0 +1,22 @@
+body {
+  background-color: #3D9970;
+}
+
+.viewbox {
+  background-color: #3D9970;
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 20%;
+}
+
+.viewbox-header {
+  background-color: #3D9970;
+  width: 50%;
+  margin: 0 auto;
+  border;
+}
+
+.viewbox-header-text {
+  text-align: center;
+  color: black;
+}
