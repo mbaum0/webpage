@@ -1,23 +1,17 @@
-body {
-  background-color: #3D9970;
-}
-
 .viewbox {
-  background-color: #3D9970;
-  width: 50%;
-  margin: 0 auto;
-  padding-top: 20%;
+  background-color: white;
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
 }
 
-.viewbox-header {
-  background-color: #3D9970;
-  width: 50%;
-  margin: 0 auto;
-  border;
+h1 {
+	line-height: 1.2;
 }
 
-.viewbox-header-text {
-  text-align: center;
-  color: #1A2309;
-  font-family: "Helvetica";
+p {
+  display: none;
 }
